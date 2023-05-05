@@ -65,6 +65,7 @@ require 'dbcon.php';
             </div>
         </div>
     </div>
+    <footer style="text-align: center;"><h3>&copy;HK MBURU</h3></footer>
     <?php include('includes/footer.php');?>
 
     
