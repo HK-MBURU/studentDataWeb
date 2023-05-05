@@ -65,7 +65,7 @@ require 'dbcon.php';
             </div>
         </div>
     </div>
-    <footer style="text-align: center;"><h3>&copy;HK MBURU <a href="https://api.whatsapp.com/send?phone=0797451014">Text WhatsApp</a>
+    <footer style="text-align: center;"><h3>&copy;HK MBURU <a style="text-decoration: none;" href="https://api.whatsapp.com/send?phone=0797451014">Text WhatsApp</a>
 </h3></footer>
     <?php include('includes/footer.php');?>
 
